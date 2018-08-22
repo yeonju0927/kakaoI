@@ -1,0 +1,49 @@
+/*kakaomini03.css*/
+#wrap {width: 100%; height: auto; background-color: #faf;}
+#tipBox {width: 100%; height: auto; padding-top: 105px; box-sizing: border-box;}
+#textBanner_area {position: relative; width: 100%; height: 200px; background-color: #7E837E;}
+.textBN {position: absolute; left: 50%; margin-left: -480px; width: 960px; height: 70%; top:15%; background-color: #FFE600;}
+.textBN > p {position: absolute; font-size: 3rem; text-align: center; font-weight: bold; line-height: 160px; width: 100%; height: 100%; display: block; }
+.tb01 > p {z-index: 50; background-color: #FFE600;}
+.tb02 {background-color: #4B505D;}
+.tb02 > p {z-index: 50; background-color: #4B505D; color: #FFE600;}
+.middle {width: 960px; height: 100%; margin: auto;}
+#howtoUse {width: 100%; height: 670px; background-color: #E3E3E3; padding-top: 140px; box-sizing: border-box;}
+#howtoUse > .middle > h3 {font-size: 2.5rem; text-align: center; margin-bottom: 3.5rem;}
+#howtoUse > .middle > p {font-size: 2rem; text-align: center; margin-bottom: 5rem;}
+#tipBtn  {float: left; width: 410px; height: 190px;}
+#tipBtn > button{width: 40%; height: 100%; font-size: 1.2rem; display: block; float: left; background-repeat: no-repeat; background-position: center; -webkit-background-size: contain;
+background-size: contain;}
+.voice {margin-right: 20%; background-image: url("../../../img/kakaomini03/appeach_hang.png");}
+.history {background-image: url("../../../img/kakaomini03/ryan_hang.png");}
+
+#modalBg {position: fixed; top:15%; left: 20%; z-index: 1000000; width: 60%; height: 600px; background-color: rgba(31,31,31,0.8);}
+.modalBox {width:100%; height: 100%; background-color: #F0E1E1; border: 5px solid #fff; padding: 3.5rem 5rem 3.5rem 3.5rem; box-sizing: border-box;}
+.category {width:15%; height: 100%; float: left; border-right: 2px solid #fff; }
+.category > li {widows: 100%; line-height: inherit; text-align: center; margin-bottom: 2rem; font-size: 1.3rem;}
+.category > li.select {font-weight: bold; font-size: 1.5rem;}
+.category > li > a {width:100%; height: 100%; display: block;}
+.tab_text {width:80%; height: 100%; background-color: #fff; float: right; background-image: url("../../../img/kakaomini03/tube.png"); background-repeat: no-repeat; background-position: right 100%;}
+.tab_text > div {display: none; padding-top: 2rem; box-sizing: border-box;}
+.tab_text > div.select {display: block; width: 100%; height: 100%;}
+.bold {font-weight: bold;}
+.tab_text > div > p {font-size: 1rem; margin-bottom: 1rem; text-align: center;}
+.tab_text > div > h3 {text-align: center; font-size: 2rem; margin-bottom: 2rem;}
+span {text-align: left; margin-top: 5rem; display: block; margin-left: 2rem;}
+
+
+#miniImg {float: right; width: 300px; height: 290px; background-image: url("../../../img/kakaomini03/mini_two.png"); background-repeat: no-repeat; -webkit-background-size: contain; background-size: contain; background-position: center;}
+
+
+
+#downloadApp {width: 100%; height: 670px; background-color: #FAFAF5; padding-top: 120px; box-sizing: border-box;}
+#downloadApp > .middle {background-image: url("../../../img/kakaomini03/iphone01.png"); background-repeat: no-repeat; -webkit-background-size: contain; background-size: contain; background-position: right 5rem;
+}
+#downloadApp h3 {font-size: 2.5rem; text-align: center; margin-bottom: 3.5rem;}
+#downloadApp p {font-size: 1.5rem; text-align: left; margin-bottom: 5rem; width: 55%; line-height: 200%; word-break: keep-all;}
+#downBtn {width: 400px; height: 60px; margin-bottom: 5rem;}
+#downBtn > button {width: 188px; height: 100%; background-color: #ccc; border: 3px solid #fff; box-sizing: border-box; display: block; float: left; background-repeat: no-repeat; -webkit-background-size: 80%;
+background-size: 80%; background-position: center;}
+.appstore {margin-right: 20px; background-image: url("../../../img/kakaomini03/appstore.png");}
+.playstore {background-image: url("../../../img/kakaomini03/playstore.png");}
+

@@ -1,0 +1,19 @@
+/*css 모음*/
+@import url("./all/headBox.css");
+@import url("./all/headBox/headBox_mobile.css");
+@import url("./all/headBox/headBox_tablet.css");
+@import url("./all/headBox/headBox_pc.css");
+
+
+@import url("./main/main.css");
+@import url("./main/main_mobile.css");
+@import url("./main/main_tablet.css");
+@import url("./main/main_pc.css");
+
+
+
+
+@import url("./all/footBox.css");
+@import url("./all/footBox/footBox_mobile.css");
+@import url("./all/footBox/footBox_tablet.css");
+@import url("./all/footBox/footBox_pc.css");
